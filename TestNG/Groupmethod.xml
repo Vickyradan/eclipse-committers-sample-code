@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="GroupMethod">
+<test name ="TestGroupMethod">
+<groups>
+  	<run>
+  	
+  	<!-- <include name = "Samsung" ></include> -->
+  	<exclude name = "Vivo"></exclude>
+  	
+  	</run>
+</groups>
+<classes>
+<class name="TestNG.GroupMethod">  </class>
+</classes>
+</test>
+</suite>

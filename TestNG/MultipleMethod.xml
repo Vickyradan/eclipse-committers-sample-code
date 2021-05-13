@@ -1,0 +1,11 @@
+
+<suite name = "summa">
+	
+	<test name = "Tees">
+	
+			<classes>
+			<class name  = "TestNG.MultipleTime"></class>
+			
+		</classes>
+	</test>
+</suite>

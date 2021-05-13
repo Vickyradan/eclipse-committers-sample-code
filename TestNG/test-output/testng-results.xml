@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Parameter1" duration-ms="69" started-at="2021-05-07T07:20:20Z" finished-at="2021-05-07T07:20:20Z">
+    <groups>
+    </groups>
+    <test name="TestParameter" duration-ms="69" started-at="2021-05-07T07:20:20Z" finished-at="2021-05-07T07:20:20Z">
+      <class name="TestNG.Parameterization">
+        <test-method status="PASS" signature="PrintName(java.lang.String)[pri:0, instance:TestNG.Parameterization@1629756]" name="PrintName" duration-ms="29" started-at="2021-05-07T12:50:20Z" finished-at="2021-05-07T12:50:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vicky]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintName -->
+      </class> <!-- TestNG.Parameterization -->
+    </test> <!-- TestParameter -->
+  </suite> <!-- Parameter1 -->
+</testng-results>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name ="Parameter1">
+<test name = "TestParameter">
+<parameter name="Name" value="Vicky"></parameter>
+<classes>
+<class name = "TestNG.Parameterization"></class>
+</classes>
+</test>
+</suite> 
