@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test name="Test">
+    <classes>
+    
+      <class name="testCase_LanguageMaterial_PartA.Preposition_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.IdiomsPhrasesandtheirmeanings_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.Synonyms_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.Antonyms_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.PrefixandSuffix_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.Articles_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.QuestionTag_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.Tenses_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.ActivevoiceandPassivevoice_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.InfinitiveGerundParticiple_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.SentencePattern_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.FindOuttheError_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.Comprehension_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.Selectthecorrectsentence_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.Findtheoddwords_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.SelectthecorrectPluralforms_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.Identifythesentence_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.Degreesofcomparison_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.Formnewwordsbyblendingthewords_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartA.FormCompoundWords_TestCase"/>  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

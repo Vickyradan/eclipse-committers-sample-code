@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test name="Test">
+    <classes>
+       <class name="testCase_BookbackQuestion.Science_6th_Standard_TestCase"/>
+       <class name="testCase_BookbackQuestion.SocialScience_6th_Standard_TestCase"/>
+      <class name="testCase_BookbackQuestion.Science_7th_Standard_TestCase"/>
+      <class name="testCase_BookbackQuestion.SocialScience_7th_Standard_TestCase"/>
+      <class name="testCase_BookbackQuestion.Science_8th_Standard_TestCase"/>
+      <class name="testCase_BookbackQuestion.SocialScience_8th_Standard_TestCase"/>
+      <class name="testCase_BookbackQuestion.Science_9th_Standard_TestCase"/>
+      <class name="testCase_BookbackQuestion.SocialScience_9th_Standard_TestCase"/>
+      <class name="testCase_BookbackQuestion.Science_10th_Standard_TestCase"/>
+      <class name="testCase_BookbackQuestion.SocialScience_10th_Standard_TestCase"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

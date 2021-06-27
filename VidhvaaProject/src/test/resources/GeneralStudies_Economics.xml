@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test name="Test">
+    <classes>
+    
+      <class name="testCase_GeneralStudies_Economics.NatureofIndianEconomy_TestCase"/>
+      <class name="testCase_GeneralStudies_Economics.FiveYearPlanandAssessment_TestCase"/>
+      <class name="testCase_GeneralStudies_Economics.LandReformsandAgricultureAgricultureRelatedschemes_TestCase"/>
+      <class name="testCase_GeneralStudies_Economics.IndustrialGrowth_TestCase"/>
+      <class name="testCase_GeneralStudies_Economics.RuralWelfareOrientedProgrammes_TestCase"/>
+      <class name="testCase_GeneralStudies_Economics.SocialSectorProblemsPopulationEducationHealthEmploymentPoverty_TestCase"/>
+      <class name="testCase_GeneralStudies_Economics.EconomicTrendsinTamilnadu_TestCase"/>  
+      <class name="testCase_GeneralStudies_Economics.PracticeQuestion_TestCase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,39 @@
+[INFO ] 2021-06-24 23:47:58.458 [main] CommonFunction - Property file Loaded
+[INFO ] 2021-06-24 23:48:02.642 [main] CommonFunction - Browser Opened
+[INFO ] 2021-06-24 23:48:30.168 [main] CommonFunction - getting url
+[INFO ] 2021-06-24 23:48:33.110 [main] CommonFunction - Nature of Indian Economy function running
+[INFO ] 2021-06-24 23:48:38.752 [main] CommonFunction - General Studies clicked
+[INFO ] 2021-06-24 23:48:40.626 [main] CommonFunction - Economics clicked
+[INFO ] 2021-06-24 23:48:40.760 [main] CommonFunction - Nature of Indian Economy clicked
+[INFO ] 2021-06-24 23:48:41.363 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:48:41.364 [main] CommonFunction - Nature of Indian Economy function finished
+[INFO ] 2021-06-24 23:48:41.770 [main] CommonFunction - Five Year Plan and Assessment function running
+[INFO ] 2021-06-24 23:48:41.989 [main] CommonFunction - Five Year Plan and Assessment clicked
+[INFO ] 2021-06-24 23:48:42.570 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:48:42.570 [main] CommonFunction - Five Year Plan and Assessment function finished
+[INFO ] 2021-06-24 23:48:42.908 [main] CommonFunction - Land Reforms and Agriculture, Agriculture Related schemes function running
+[INFO ] 2021-06-24 23:48:43.065 [main] CommonFunction - Land Reforms and Agriculture, Agriculture Related schemes clicked
+[INFO ] 2021-06-24 23:48:43.566 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:48:43.566 [main] CommonFunction - Land Reforms and Agriculture, Agriculture Related schemes function finished
+[INFO ] 2021-06-24 23:48:43.907 [main] CommonFunction - Industrial Growth function running
+[INFO ] 2021-06-24 23:48:44.083 [main] CommonFunction - Industrial Growth clicked
+[INFO ] 2021-06-24 23:48:44.587 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:48:44.587 [main] CommonFunction - Industrial Growth function finished
+[INFO ] 2021-06-24 23:48:44.977 [main] CommonFunction - Rural Welfare Oriented Programmes function running
+[INFO ] 2021-06-24 23:48:45.131 [main] CommonFunction - Rural Welfare Oriented Programmes clicked
+[INFO ] 2021-06-24 23:48:45.612 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:48:45.612 [main] CommonFunction - Rural Welfare Oriented Programmes function finished
+[INFO ] 2021-06-24 23:48:45.940 [main] CommonFunction - Social Sector Problems, Population, Education, Health, Employment, Poverty function running
+[INFO ] 2021-06-24 23:48:46.103 [main] CommonFunction - Social Sector Problems, Population, Education, Health, Employment, Poverty clicked
+[INFO ] 2021-06-24 23:48:46.869 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:48:46.869 [main] CommonFunction - Social Sector Problems, Population, Education, Health, Employment, Poverty function finished
+[INFO ] 2021-06-24 23:48:47.323 [main] CommonFunction - Economic Trends in Tamilnadu function running
+[INFO ] 2021-06-24 23:48:47.557 [main] CommonFunction - Economic Trends in Tamilnadu clicked
+[INFO ] 2021-06-24 23:48:48.916 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:48:48.917 [main] CommonFunction - Economic Trends in Tamilnadu function finished
+[INFO ] 2021-06-24 23:48:58.898 [main] CommonFunction - PracticeQuestion function running
+[INFO ] 2021-06-24 23:48:59.280 [main] CommonFunction - GeneralStudies clicked
+[INFO ] 2021-06-24 23:48:59.914 [main] CommonFunction - PracticeQuestion clicked
+[INFO ] 2021-06-24 23:48:59.966 [main] CommonFunction - close Popup clicked
+[INFO ] 2021-06-24 23:48:59.966 [main] CommonFunction - PracticeQuestion function finished
+[INFO ] 2021-06-24 23:49:01.702 [main] CommonFunction - Browser closed

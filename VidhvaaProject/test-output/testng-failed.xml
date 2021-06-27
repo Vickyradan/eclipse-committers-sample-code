@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test">
+    <classes>
+      <class name="testCase_VidhvaasModelQuestions.ModelQuestions_1_TestCase"/>
+      <class name="testCase_VidhvaasModelQuestions.ModelQuestions_2_TestCase"/>
+      <class name="testCase_VidhvaasModelQuestions.ModelQuestions_3_TestCase"/>
+      <class name="testCase_VidhvaasModelQuestions.ModelQuestions_4_TestCasee"/>
+      <class name="testCase_VidhvaasModelQuestions.ModelQuestions_5_TestCase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->

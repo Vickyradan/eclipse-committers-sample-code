@@ -1,0 +1,151 @@
+[INFO ] 2021-06-24 23:51:54.032 [main] CommonFunction - Property file Loaded
+[INFO ] 2021-06-24 23:51:58.789 [main] CommonFunction - Browser Opened
+[INFO ] 2021-06-24 23:52:17.305 [main] CommonFunction - getting url
+[INFO ] 2021-06-24 23:52:20.330 [main] CommonFunction - Pre - Historic Period function running
+[INFO ] 2021-06-24 23:52:25.797 [main] CommonFunction - General Studies clicked
+[INFO ] 2021-06-24 23:52:27.823 [main] CommonFunction - History clicked
+[INFO ] 2021-06-24 23:52:27.962 [main] CommonFunction - Pre - Historic Period clicked
+[INFO ] 2021-06-24 23:52:29.033 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:29.055 [main] CommonFunction - Pre - Historic Period function finished
+[INFO ] 2021-06-24 23:52:29.474 [main] CommonFunction - Indus Valley Civilization function running
+[INFO ] 2021-06-24 23:52:29.660 [main] CommonFunction - Indus Valley Civilization clicked
+[INFO ] 2021-06-24 23:52:30.716 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:30.717 [main] CommonFunction - Indus Valley Civilization function finished
+[INFO ] 2021-06-24 23:52:31.161 [main] CommonFunction - Vedic Period - Pre Vedic and Post Vedic Period function running
+[INFO ] 2021-06-24 23:52:31.524 [main] CommonFunction - Vedic Period - Pre Vedic and Post Vedic Period clicked
+[INFO ] 2021-06-24 23:52:32.678 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:32.679 [main] CommonFunction - Vedic Period - Pre Vedic and Post Vedic Period function finished
+[INFO ] 2021-06-24 23:52:33.092 [main] CommonFunction - Mahajanapadas function running
+[INFO ] 2021-06-24 23:52:33.282 [main] CommonFunction - Mahajanapadas clicked
+[INFO ] 2021-06-24 23:52:34.034 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:34.034 [main] CommonFunction - Mahajanapadas function finished
+[INFO ] 2021-06-24 23:52:34.354 [main] CommonFunction - Mauryas function running
+[INFO ] 2021-06-24 23:52:34.521 [main] CommonFunction - Mauryas clicked
+[INFO ] 2021-06-24 23:52:35.373 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:35.374 [main] CommonFunction - Mauryas function finished
+[INFO ] 2021-06-24 23:52:35.692 [main] CommonFunction - Buddhism function running
+[INFO ] 2021-06-24 23:52:35.892 [main] CommonFunction - Buddhism clicked
+[INFO ] 2021-06-24 23:52:36.713 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:36.713 [main] CommonFunction - Buddhism function finished
+[INFO ] 2021-06-24 23:52:37.067 [main] CommonFunction - Jainism function running
+[INFO ] 2021-06-24 23:52:37.274 [main] CommonFunction - Jainism clicked
+[INFO ] 2021-06-24 23:52:38.014 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:38.015 [main] CommonFunction - Jainism function finished
+[INFO ] 2021-06-24 23:52:38.372 [main] CommonFunction - Post Mauryan India function running
+[INFO ] 2021-06-24 23:52:38.651 [main] CommonFunction - Post Mauryan India clicked
+[INFO ] 2021-06-24 23:52:39.394 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:39.394 [main] CommonFunction - Post Mauryan India function finished
+[INFO ] 2021-06-24 23:52:39.836 [main] CommonFunction - Guptas function running
+[INFO ] 2021-06-24 23:52:40.000 [main] CommonFunction - Guptas clicked
+[INFO ] 2021-06-24 23:52:40.706 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:40.706 [main] CommonFunction - Guptas function finished
+[INFO ] 2021-06-24 23:52:41.049 [main] CommonFunction - Harshvardhana Empire function running
+[INFO ] 2021-06-24 23:52:41.301 [main] CommonFunction - Harshvardhana Empire clicked
+[INFO ] 2021-06-24 23:52:42.073 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:42.073 [main] CommonFunction - Harshvardhana Empire function finished
+[INFO ] 2021-06-24 23:52:42.523 [main] CommonFunction - North Indian Kingdoms function running
+[INFO ] 2021-06-24 23:52:42.745 [main] CommonFunction - North Indian Kingdoms clicked
+[INFO ] 2021-06-24 23:52:43.375 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:43.375 [main] CommonFunction - North Indian Kingdoms function finished
+[INFO ] 2021-06-24 23:52:43.725 [main] CommonFunction - Invasion of Arab and Turks function running
+[INFO ] 2021-06-24 23:52:43.934 [main] CommonFunction - Invasion of Arab and Turks clicked
+[INFO ] 2021-06-24 23:52:44.410 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:44.410 [main] CommonFunction - Invasion of Arab and Turks function finished
+[INFO ] 2021-06-24 23:52:44.747 [main] CommonFunction - Delhi Sultanate function running
+[INFO ] 2021-06-24 23:52:44.984 [main] CommonFunction - Delhi Sultanate clicked
+[INFO ] 2021-06-24 23:52:45.778 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:45.778 [main] CommonFunction - Delhi Sultanate function finished
+[INFO ] 2021-06-24 23:52:46.144 [main] CommonFunction - Reformers of Bhakti Movement function running
+[INFO ] 2021-06-24 23:52:46.325 [main] CommonFunction - Reformers of Bhakti Movement clicked
+[INFO ] 2021-06-24 23:52:46.985 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:46.986 [main] CommonFunction - Reformers of Bhakti Movement function finished
+[INFO ] 2021-06-24 23:52:47.371 [main] CommonFunction - Vijayanagar and Bahmani Kingdom function running
+[INFO ] 2021-06-24 23:52:47.578 [main] CommonFunction - Vijayanagar and Bahmani Kingdom clicked
+[INFO ] 2021-06-24 23:52:48.525 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:48.526 [main] CommonFunction - Vijayanagar and Bahmani Kingdom function finished
+[INFO ] 2021-06-24 23:52:48.901 [main] CommonFunction - Mughals function running
+[INFO ] 2021-06-24 23:52:49.124 [main] CommonFunction - Mughals clicked
+[INFO ] 2021-06-24 23:52:49.975 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:49.976 [main] CommonFunction - Mughals function finished
+[INFO ] 2021-06-24 23:52:50.322 [main] CommonFunction - Marathas function running
+[INFO ] 2021-06-24 23:52:50.514 [main] CommonFunction - Marathas clicked
+[INFO ] 2021-06-24 23:52:51.125 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:51.125 [main] CommonFunction - Marathas function finished
+[INFO ] 2021-06-24 23:52:51.464 [main] CommonFunction - Advent of Europeans function running
+[INFO ] 2021-06-24 23:52:51.664 [main] CommonFunction - Advent of Europeans clicked
+[INFO ] 2021-06-24 23:52:52.111 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:52.111 [main] CommonFunction - Advent of Europeans function finished
+[INFO ] 2021-06-24 23:52:52.510 [main] CommonFunction - Carnatic Wars function running
+[INFO ] 2021-06-24 23:52:52.738 [main] CommonFunction - Carnatic Wars clicked
+[INFO ] 2021-06-24 23:52:53.660 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:53.661 [main] CommonFunction - Carnatic Wars function finished
+[INFO ] 2021-06-24 23:52:54.037 [main] CommonFunction - The Great Revolt of 1857 function running
+[INFO ] 2021-06-24 23:52:54.221 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:54.860 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:54.860 [main] CommonFunction - The Great Revolt of 1857 function finished
+[INFO ] 2021-06-24 23:52:55.215 [main] CommonFunction - Social and Religions Reform Movement in the 19th Century function running
+[INFO ] 2021-06-24 23:52:55.371 [main] CommonFunction - Social and Religions Reform Movement in the 19th Century clicked
+[INFO ] 2021-06-24 23:52:55.863 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:55.863 [main] CommonFunction - Social and Religions Reform Movement in the 19th Century function finished
+[INFO ] 2021-06-24 23:52:56.239 [main] CommonFunction - Educational Development in India function running
+[INFO ] 2021-06-24 23:52:56.513 [main] CommonFunction - Educational Development in India clicked
+[INFO ] 2021-06-24 23:52:57.349 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:57.350 [main] CommonFunction - Educational Development in India function finished
+[INFO ] 2021-06-24 23:52:57.732 [main] CommonFunction - Women Empowerment in India function running
+[INFO ] 2021-06-24 23:52:57.895 [main] CommonFunction - Women Empowerment in India clicked
+[INFO ] 2021-06-24 23:52:58.612 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:58.612 [main] CommonFunction - Women Empowerment in India function finished
+[INFO ] 2021-06-24 23:52:59.041 [main] CommonFunction - Rise of National Leaders function running
+[INFO ] 2021-06-24 23:52:59.277 [main] CommonFunction - Rise of National Leaders clicked
+[INFO ] 2021-06-24 23:52:59.752 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:52:59.752 [main] CommonFunction - Rise of National Leaders function finished
+[INFO ] 2021-06-24 23:53:00.419 [main] CommonFunction - Post - Independence India function running
+[INFO ] 2021-06-24 23:53:00.775 [main] CommonFunction - Post - Independence India clicked
+[INFO ] 2021-06-24 23:53:01.774 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:53:01.774 [main] CommonFunction - Post - Independence India function finished
+[INFO ] 2021-06-24 23:53:02.156 [main] CommonFunction - Cultural Features of India function running
+[INFO ] 2021-06-24 23:53:02.406 [main] CommonFunction - Cultural Features of India clicked
+[INFO ] 2021-06-24 23:53:03.476 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:53:03.476 [main] CommonFunction - Cultural Features of India function finished
+[INFO ] 2021-06-24 23:53:03.942 [main] CommonFunction - South Indian History Society and Culture in Ancient Tamizhagam function running
+[INFO ] 2021-06-24 23:53:04.183 [main] CommonFunction - South Indian History Society and Culture in Ancient Tamizhagam clicked
+[INFO ] 2021-06-24 23:53:04.859 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:53:04.860 [main] CommonFunction - South Indian History Society and Culture in Ancient Tamizhagam function finished
+[INFO ] 2021-06-24 23:53:05.361 [main] CommonFunction - Sangam Age function running
+[INFO ] 2021-06-24 23:53:05.667 [main] CommonFunction - Sangam Age clicked
+[INFO ] 2021-06-24 23:53:06.857 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:53:06.858 [main] CommonFunction - Sangam Age function finished
+[INFO ] 2021-06-24 23:53:07.287 [main] CommonFunction - Kalabras Period function running
+[INFO ] 2021-06-24 23:53:07.524 [main] CommonFunction - Kalabras Period clicked
+[INFO ] 2021-06-24 23:53:08.301 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:53:08.301 [main] CommonFunction - Kalabras Period function finished
+[INFO ] 2021-06-24 23:53:09.073 [main] CommonFunction - Pallavas, Pandyas Peirod function running
+[INFO ] 2021-06-24 23:53:09.349 [main] CommonFunction - Pallavas, Pandyas Peirod clicked
+[INFO ] 2021-06-24 23:53:09.996 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:53:09.996 [main] CommonFunction - Pallavas, Pandyas Peirod function finished
+[INFO ] 2021-06-24 23:53:10.353 [main] CommonFunction - Palayakkar's Rebellion in Tamilnadu function running
+[INFO ] 2021-06-24 23:53:10.579 [main] CommonFunction - Palayakkar's Rebellion in Tamilnadu clicked
+[INFO ] 2021-06-24 23:53:11.327 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:53:11.327 [main] CommonFunction - Palayakkar's Rebellion in Tamilnadu function finished
+[INFO ] 2021-06-24 23:53:11.702 [main] CommonFunction - Social Transformation in Tamilnadu function running
+[INFO ] 2021-06-24 23:53:11.859 [main] CommonFunction - Social Transformation in Tamilnadu clicked
+[INFO ] 2021-06-24 23:53:12.530 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:53:12.531 [main] CommonFunction - Social Transformation in Tamilnadu function finished
+[INFO ] 2021-06-24 23:53:12.888 [main] CommonFunction - Justice Party function running
+[INFO ] 2021-06-24 23:53:13.093 [main] CommonFunction - Justice Party clicked
+[INFO ] 2021-06-24 23:53:13.582 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:53:13.583 [main] CommonFunction - Justice Party function finished
+[INFO ] 2021-06-24 23:53:13.968 [main] CommonFunction - Swadeshi Movement function running
+[INFO ] 2021-06-24 23:53:14.177 [main] CommonFunction - Swadeshi Movement clicked
+[INFO ] 2021-06-24 23:53:15.021 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:53:15.021 [main] CommonFunction - Swadeshi Movement function finished
+[INFO ] 2021-06-24 23:53:15.437 [main] CommonFunction - Self - Respect Movement function running
+[INFO ] 2021-06-24 23:53:15.567 [main] CommonFunction - Self - Respect Movement clicked
+[INFO ] 2021-06-24 23:53:16.312 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:53:16.313 [main] CommonFunction - Self - Respect Movement function finished
+[INFO ] 2021-06-24 23:53:28.927 [main] CommonFunction - PracticeQuestion function running
+[INFO ] 2021-06-24 23:53:29.415 [main] CommonFunction - GeneralStudies clicked
+[INFO ] 2021-06-24 23:53:29.928 [main] CommonFunction - PracticeQuestion clicked
+[INFO ] 2021-06-24 23:53:31.081 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:53:31.082 [main] CommonFunction - PracticeQuestion function finished
+[INFO ] 2021-06-24 23:53:32.999 [main] CommonFunction - Browser closed

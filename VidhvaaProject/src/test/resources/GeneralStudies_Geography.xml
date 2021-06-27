@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test name="Test">
+    <classes>
+    
+      <class name="testCase_GeneralStudies_Geography.UniverseAndSolarSystem_TestCase"/>
+      <class name="testCase_GeneralStudies_Geography.WeatherMonsoonRainfall_TestCase"/>
+      <class name="testCase_GeneralStudies_Geography.WaterResources_TestCase"/>
+      <class name="testCase_GeneralStudies_Geography.RiversofIndia_TestCase"/>
+      <class name="testCase_GeneralStudies_Geography.Soils_TestCase"/>
+      <class name="testCase_GeneralStudies_Geography.PopulationDensityandDistribution_TestCase"/>
+      <class name="testCase_GeneralStudies_Geography.SocialGeography_TestCase"/> 
+      <class name="testCase_GeneralStudies_Geography.DisasterManagement_TestCase"/>
+      <class name="testCase_GeneralStudies_Geography.Tamilnadu_TaseCase"/>
+      <class name="testCase_GeneralStudies_Geography.Earth_TestCase"/>
+      <class name="testCase_GeneralStudies_Geography.AdditionalInformation_TestCase"/>
+      <class name="testCase_GeneralStudies_Geography.India_SoilsMineralsNaturalResourcesForestsAgricultureTransportCommunication_TestCase"/>
+      <class name="testCase_GeneralStudies_Geography.Continents_SoilsMineralsForestsNaturalResourcesAgricultureTransportCommunicationandPopulation_TestCase"/>
+      <class name="testCase_GeneralStudies_Geography.PracticeQuestion_TestCase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

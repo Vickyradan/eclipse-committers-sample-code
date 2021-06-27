@@ -1,0 +1,89 @@
+[INFO ] 2021-06-25 00:09:43.835 [main] CommonFunction - Property file Loaded
+[INFO ] 2021-06-25 00:09:49.434 [main] CommonFunction - Browser Opened
+[INFO ] 2021-06-25 00:10:04.488 [main] CommonFunction - getting url
+[INFO ] 2021-06-25 00:10:04.842 [main] CommonFunction - LoginFunction Started
+[INFO ] 2021-06-25 00:10:13.039 [main] CommonFunction - LoginFunction Closed
+[INFO ] 2021-06-25 00:10:13.039 [main] CommonFunction - Preposition function running
+[INFO ] 2021-06-25 00:10:46.235 [main] CommonFunction - LanguageMaterial clicked
+[INFO ] 2021-06-25 00:10:49.283 [main] CommonFunction - Part A clicked
+[INFO ] 2021-06-25 00:10:49.499 [main] CommonFunction - Preposition clicked
+[INFO ] 2021-06-25 00:10:50.460 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:10:50.743 [main] CommonFunction - download clicked
+[INFO ] 2021-06-25 00:10:50.743 [main] CommonFunction - Preposition function finished
+[INFO ] 2021-06-25 00:10:51.395 [main] CommonFunction - Idioms, Phrases and their meanings function running
+[INFO ] 2021-06-25 00:10:51.746 [main] CommonFunction - Idioms, Phrases and their meanings clicked
+[INFO ] 2021-06-25 00:10:54.787 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:10:54.787 [main] CommonFunction - Idioms, Phrases and their meanings function finished
+[INFO ] 2021-06-25 00:10:55.347 [main] CommonFunction - Synonyms function running
+[INFO ] 2021-06-25 00:10:55.647 [main] CommonFunction - Synonyms clicked
+[INFO ] 2021-06-25 00:10:56.431 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:10:56.431 [main] CommonFunction - Synonyms function running
+[INFO ] 2021-06-25 00:10:57.208 [main] CommonFunction - Antonyms function running
+[INFO ] 2021-06-25 00:10:57.514 [main] CommonFunction - Antonyms clicked
+[INFO ] 2021-06-25 00:10:59.030 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:10:59.030 [main] CommonFunction - Antonyms function finished
+[INFO ] 2021-06-25 00:11:00.074 [main] CommonFunction - Prefix and Suffix function running
+[INFO ] 2021-06-25 00:11:00.322 [main] CommonFunction - Prefix and Suffix clicked
+[INFO ] 2021-06-25 00:11:01.592 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:11:01.593 [main] CommonFunction - Prefix and Suffix function finished
+[INFO ] 2021-06-25 00:11:02.183 [main] CommonFunction - Articles function running
+[INFO ] 2021-06-25 00:11:02.456 [main] CommonFunction - Articles clicked
+[INFO ] 2021-06-25 00:11:04.051 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:11:04.051 [main] CommonFunction - Articles function finished
+[INFO ] 2021-06-25 00:11:04.516 [main] CommonFunction - Question Tag running
+[INFO ] 2021-06-25 00:11:04.781 [main] CommonFunction - Question Tag clicked
+[INFO ] 2021-06-25 00:11:06.050 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:11:06.050 [main] CommonFunction - Preposition function finished
+[INFO ] 2021-06-25 00:11:06.462 [main] CommonFunction - Tenses function running
+[INFO ] 2021-06-25 00:11:06.759 [main] CommonFunction - Tenses clicked
+[INFO ] 2021-06-25 00:11:08.279 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:11:08.279 [main] CommonFunction - Tenses function running
+[INFO ] 2021-06-25 00:11:08.885 [main] CommonFunction - Activevoice and Passivevoice function running
+[INFO ] 2021-06-25 00:11:09.089 [main] CommonFunction - Activevoice and Passivevoice clicked
+[INFO ] 2021-06-25 00:11:10.243 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:11:10.243 [main] CommonFunction - Activevoice and Passivevoice function finished
+[INFO ] 2021-06-25 00:11:10.776 [main] CommonFunction - Infinitive, Gerund, Participle function running
+[INFO ] 2021-06-25 00:11:10.998 [main] CommonFunction - Infinitive, Gerund, Participle clicked
+[INFO ] 2021-06-25 00:11:12.312 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:11:12.313 [main] CommonFunction - Infinitive, Gerund, Participle function finished
+[INFO ] 2021-06-25 00:11:13.055 [main] CommonFunction - Sentence Pattern function running
+[INFO ] 2021-06-25 00:11:13.319 [main] CommonFunction - Sentence Pattern clicked
+[INFO ] 2021-06-25 00:11:14.839 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:11:14.839 [main] CommonFunction - Sentence Pattern function finished
+[INFO ] 2021-06-25 00:11:15.372 [main] CommonFunction - Find Out the Error function running
+[INFO ] 2021-06-25 00:11:15.589 [main] CommonFunction - Find Out the Error clicked
+[INFO ] 2021-06-25 00:11:16.836 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:11:16.836 [main] CommonFunction - Find Out the Error function finished
+[INFO ] 2021-06-25 00:11:17.440 [main] CommonFunction - Comprehension function running
+[INFO ] 2021-06-25 00:11:17.702 [main] CommonFunction - Comprehension clicked
+[INFO ] 2021-06-25 00:11:19.105 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:11:19.108 [main] CommonFunction - Comprehension function finished
+[INFO ] 2021-06-25 00:11:19.553 [main] CommonFunction - Select the correct sentence function running
+[INFO ] 2021-06-25 00:11:19.799 [main] CommonFunction - Select the correct sentence clicked
+[INFO ] 2021-06-25 00:11:21.304 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:11:21.304 [main] CommonFunction - Select the correct sentence function finished
+[INFO ] 2021-06-25 00:11:21.829 [main] CommonFunction - Find the odd words function running
+[INFO ] 2021-06-25 00:11:22.055 [main] CommonFunction - Find the odd words clicked
+[INFO ] 2021-06-25 00:11:23.331 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:11:23.332 [main] CommonFunction - Find the odd words function finished
+[INFO ] 2021-06-25 00:11:23.828 [main] CommonFunction - Select the correct Plural forms function running
+[INFO ] 2021-06-25 00:11:24.075 [main] CommonFunction - Select the correct Plural forms clicked
+[INFO ] 2021-06-25 00:11:25.421 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:11:25.422 [main] CommonFunction - Select the correct Plural forms function finished
+[INFO ] 2021-06-25 00:11:25.875 [main] CommonFunction - Identify the sentence function running
+[INFO ] 2021-06-25 00:11:26.105 [main] CommonFunction - Identify the sentence clicked
+[INFO ] 2021-06-25 00:11:27.343 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:11:27.343 [main] CommonFunction - Identify the sentence function finished
+[INFO ] 2021-06-25 00:11:27.783 [main] CommonFunction - Degrees of comparison function running
+[INFO ] 2021-06-25 00:11:28.089 [main] CommonFunction - Degrees of comparison clicked
+[INFO ] 2021-06-25 00:11:29.441 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:11:29.441 [main] CommonFunction - Degrees of comparison function finished
+[INFO ] 2021-06-25 00:11:29.905 [main] CommonFunction - Form new words by blending the words function running
+[INFO ] 2021-06-25 00:11:30.142 [main] CommonFunction - Form new words by blending the words clicked
+[INFO ] 2021-06-25 00:11:31.712 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:11:31.712 [main] CommonFunction - Form new words by blending the words function finished
+[INFO ] 2021-06-25 00:11:32.166 [main] CommonFunction - Form Compound Words function running
+[INFO ] 2021-06-25 00:11:32.394 [main] CommonFunction - Form Compound Words clicked
+[INFO ] 2021-06-25 00:11:33.736 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:11:33.737 [main] CommonFunction - Form Compound Words function finished
+[INFO ] 2021-06-25 00:11:36.097 [main] CommonFunction - Browser closed

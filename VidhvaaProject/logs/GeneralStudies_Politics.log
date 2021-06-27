@@ -1,0 +1,87 @@
+[INFO ] 2021-06-24 23:58:35.449 [main] CommonFunction - Property file Loaded
+[INFO ] 2021-06-24 23:58:39.860 [main] CommonFunction - Browser Opened
+[INFO ] 2021-06-24 23:58:56.015 [main] CommonFunction - getting url
+[INFO ] 2021-06-24 23:58:59.594 [main] CommonFunction - Constitution of India function running
+[INFO ] 2021-06-24 23:59:08.390 [main] CommonFunction - General Studies clicked
+[INFO ] 2021-06-24 23:59:10.081 [main] CommonFunction - Politics clicked
+[INFO ] 2021-06-24 23:59:10.220 [main] CommonFunction - Constitution of India clicked
+[INFO ] 2021-06-24 23:59:10.820 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:10.823 [main] CommonFunction - Constitution of India function finished
+[INFO ] 2021-06-24 23:59:11.214 [main] CommonFunction - Preamble to the Constitution function running
+[INFO ] 2021-06-24 23:59:11.372 [main] CommonFunction - Preamble to the Constitution clicked
+[INFO ] 2021-06-24 23:59:11.897 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:11.897 [main] CommonFunction - Preamble to the Constitution function finished
+[INFO ] 2021-06-24 23:59:12.235 [main] CommonFunction - Salient Features of the Constitution function running
+[INFO ] 2021-06-24 23:59:12.375 [main] CommonFunction - Salient Features of the Constitution clicked
+[INFO ] 2021-06-24 23:59:12.420 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:12.421 [main] CommonFunction - Salient Features of the Constitution function finished
+[INFO ] 2021-06-24 23:59:12.448 [main] CommonFunction - Union, State and Union Territory function running
+[INFO ] 2021-06-24 23:59:12.525 [main] CommonFunction - Union, State and Union Territory clicked
+[INFO ] 2021-06-24 23:59:14.166 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:14.166 [main] CommonFunction - Union, State and Union Territory function finished
+[INFO ] 2021-06-24 23:59:14.646 [main] CommonFunction - Citizenship function running
+[INFO ] 2021-06-24 23:59:14.851 [main] CommonFunction - Citizenship clicked
+[INFO ] 2021-06-24 23:59:15.345 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:15.347 [main] CommonFunction - Citizenship function finished
+[INFO ] 2021-06-24 23:59:15.712 [main] CommonFunction - Fundamental Rights function running
+[INFO ] 2021-06-24 23:59:15.778 [main] CommonFunction - Fundamental Rights clicked
+[INFO ] 2021-06-24 23:59:16.262 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:16.262 [main] CommonFunction - Fundamental Rights function finished
+[INFO ] 2021-06-24 23:59:16.686 [main] CommonFunction - Fundamental Duties function running
+[INFO ] 2021-06-24 23:59:16.849 [main] CommonFunction - Fundamental Duties clicked
+[INFO ] 2021-06-24 23:59:17.351 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:17.351 [main] CommonFunction - Fundamental Duties function finished
+[INFO ] 2021-06-24 23:59:17.714 [main] CommonFunction - Human Rights Charter, United Nations Assembly function running
+[INFO ] 2021-06-24 23:59:17.926 [main] CommonFunction - Human Rights Charter, United Nations Assembly clicked
+[INFO ] 2021-06-24 23:59:19.034 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:19.034 [main] CommonFunction - Human Rights Charter, United Nations Assembly function finished
+[INFO ] 2021-06-24 23:59:19.473 [main] CommonFunction - Union Legislature and Parliament function running
+[INFO ] 2021-06-24 23:59:19.670 [main] CommonFunction - Union Legislature and Parliament clicked
+[INFO ] 2021-06-24 23:59:20.204 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:20.204 [main] CommonFunction - Union Legislature and Parliament function finished
+[INFO ] 2021-06-24 23:59:20.577 [main] CommonFunction - State Legislature function running
+[INFO ] 2021-06-24 23:59:20.724 [main] CommonFunction - State Legislature clicked
+[INFO ] 2021-06-24 23:59:21.258 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:21.258 [main] CommonFunction - State Legislature function finished
+[INFO ] 2021-06-24 23:59:21.623 [main] CommonFunction - Panchayat Raj function running
+[INFO ] 2021-06-24 23:59:21.849 [main] CommonFunction - Panchayat Raj clicked
+[INFO ] 2021-06-24 23:59:22.340 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:22.345 [main] CommonFunction - Panchayat Raj function finished
+[INFO ] 2021-06-24 23:59:22.802 [main] CommonFunction - Judiciary in India - Rule of Law function running
+[INFO ] 2021-06-24 23:59:22.962 [main] CommonFunction - Judiciary in India - Rule of Law clicked
+[INFO ] 2021-06-24 23:59:24.198 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:24.199 [main] CommonFunction - Judiciary in India - Rule of Law function finished
+[INFO ] 2021-06-24 23:59:24.643 [main] CommonFunction - Elections function running
+[INFO ] 2021-06-24 23:59:24.839 [main] CommonFunction - Elections clicked
+[INFO ] 2021-06-24 23:59:25.416 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:25.417 [main] CommonFunction - Elections function finished
+[INFO ] 2021-06-24 23:59:25.841 [main] CommonFunction - Official Languages of India function running
+[INFO ] 2021-06-24 23:59:26.038 [main] CommonFunction - Official Languages of India clicked
+[INFO ] 2021-06-24 23:59:26.578 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:26.579 [main] CommonFunction - Official Languages of India function finished
+[INFO ] 2021-06-24 23:59:26.971 [main] CommonFunction - Corruption in Public Life - Anticorruption Measures function running
+[INFO ] 2021-06-24 23:59:27.118 [main] CommonFunction - Corruption in Public Life - Anticorruption Measures clicked
+[INFO ] 2021-06-24 23:59:27.663 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:27.663 [main] CommonFunction - Corruption in Public Life - Anticorruption Measures function finished
+[INFO ] 2021-06-24 23:59:28.032 [main] CommonFunction - Empowerment of Women function running
+[INFO ] 2021-06-24 23:59:28.213 [main] CommonFunction - Empowerment of Women clicked
+[INFO ] 2021-06-24 23:59:28.838 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:28.838 [main] CommonFunction - Empowerment of Women function finished
+[INFO ] 2021-06-24 23:59:29.359 [main] CommonFunction - Right to Information function running
+[INFO ] 2021-06-24 23:59:29.588 [main] CommonFunction - Right to Information clicked
+[INFO ] 2021-06-24 23:59:30.204 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:30.204 [main] CommonFunction - Right to Information function finished
+[INFO ] 2021-06-24 23:59:30.535 [main] CommonFunction - Indian Constitution - Articles function running
+[INFO ] 2021-06-24 23:59:30.690 [main] CommonFunction - Indian Constitution - Articles clicked
+[INFO ] 2021-06-24 23:59:31.247 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:31.248 [main] CommonFunction - Indian Constitution - Articles function finished
+[INFO ] 2021-06-24 23:59:31.553 [main] CommonFunction - Amendments in Indian Constitution (1 to 103) function running
+[INFO ] 2021-06-24 23:59:31.698 [main] CommonFunction - Amendments in Indian Constitution (1 to 103) clicked
+[INFO ] 2021-06-24 23:59:32.336 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:59:32.336 [main] CommonFunction - Amendments in Indian Constitution (1 to 103) function finished
+[INFO ] 2021-06-24 23:59:46.050 [main] CommonFunction - PracticeQuestion function running
+[INFO ] 2021-06-24 23:59:46.686 [main] CommonFunction - GeneralStudies clicked
+[INFO ] 2021-06-24 23:59:47.138 [main] CommonFunction - PracticeQuestion clicked
+[INFO ] 2021-06-24 23:59:47.393 [main] CommonFunction - close Popup clicked
+[INFO ] 2021-06-24 23:59:47.393 [main] CommonFunction - PracticeQuestion function finished
+[INFO ] 2021-06-24 23:59:48.892 [main] CommonFunction - Browser closed

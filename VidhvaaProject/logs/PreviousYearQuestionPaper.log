@@ -1,0 +1,29 @@
+[INFO ] 2021-06-25 00:17:28.251 [main] CommonFunction - Property file Loaded
+[INFO ] 2021-06-25 00:17:32.599 [main] CommonFunction - Browser Opened
+[INFO ] 2021-06-25 00:17:58.991 [main] CommonFunction - getting url
+[INFO ] 2021-06-25 00:18:02.147 [main] CommonFunction - Question_1_2016 function running
+[INFO ] 2021-06-25 00:18:06.815 [main] CommonFunction - Previous Year QuestionPapers clicked
+[INFO ] 2021-06-25 00:18:07.267 [main] CommonFunction - Question_1_2016 question1 clicked
+[INFO ] 2021-06-25 00:18:07.404 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-25 00:18:07.405 [main] CommonFunction - Question_1_2016 function finished
+[INFO ] 2021-06-25 00:18:07.455 [main] CommonFunction - Question_11_2016 function running
+[INFO ] 2021-06-25 00:18:07.561 [main] CommonFunction - Question_11_2016 question11 clicked
+[INFO ] 2021-06-25 00:18:07.731 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-25 00:18:07.732 [main] CommonFunction - Question_11_2016 function finished
+[INFO ] 2021-06-25 00:18:07.734 [main] CommonFunction - Question_1_2018 function running
+[INFO ] 2021-06-25 00:18:07.866 [main] CommonFunction - Question_1_2018 question1 clicked
+[INFO ] 2021-06-25 00:18:07.969 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-25 00:18:07.970 [main] CommonFunction - Question_1_2018 function finished
+[INFO ] 2021-06-25 00:18:07.972 [main] CommonFunction - Question_11_2018 function running
+[INFO ] 2021-06-25 00:18:08.147 [main] CommonFunction - Question_11_2018 question11 clicked
+[INFO ] 2021-06-25 00:18:08.214 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-25 00:18:08.215 [main] CommonFunction - Question_11_2018 function finished
+[INFO ] 2021-06-25 00:18:08.218 [main] CommonFunction - Question_1_2019 function running
+[INFO ] 2021-06-25 00:18:08.385 [main] CommonFunction - Question_1_2019 question1 clicked
+[INFO ] 2021-06-25 00:18:08.498 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-25 00:18:08.498 [main] CommonFunction - Question_1_2019 function finished
+[INFO ] 2021-06-25 00:18:08.501 [main] CommonFunction - Question_11_2019 function running
+[INFO ] 2021-06-25 00:18:08.713 [main] CommonFunction - Question_11_2019 question11 clicked
+[INFO ] 2021-06-25 00:18:08.766 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-25 00:18:08.766 [main] CommonFunction - Question_11_2019 function finished
+[INFO ] 2021-06-25 00:18:10.142 [main] CommonFunction - Browser closed

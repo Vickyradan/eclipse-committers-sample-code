@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test name="Test">
+    <classes>
+      <class name="testCase_GeneralStudies_History.PreHistoricPeriod_TestCase"/>
+      <class name="testCase_GeneralStudies_History.IndusValleyCivilization_TestCase"/>
+      <class name="testCase_GeneralStudies_History.VedicPeriod_PreVedicandPostVedicPeriod_TestCase"/>
+      <class name="testCase_GeneralStudies_History.Mahajanapadas_TestCase"/>
+      <class name="testCase_GeneralStudies_History.Mauryas_TestCase"/>
+      <class name="testCase_GeneralStudies_History.Buddhism_TestCase"/>
+      <class name="testCase_GeneralStudies_History.Jainism_TestCase"/>
+      <class name="testCase_GeneralStudies_History.PostMauryanIndia_TestCase"/>
+      <class name="testCase_GeneralStudies_History.Guptas_TestCase"/>
+      <class name="testCase_GeneralStudies_History.HarshvardhanaEmpire_TestCase"/>
+      <class name="testCase_GeneralStudies_History.NorthIndianKingdoms_TestCase"/>
+      <class name="testCase_GeneralStudies_History.InvasionofArabandTurks_TestCase"/>
+      <class name="testCase_GeneralStudies_History.DelhiSultanate_TestCase"/>
+      <class name="testCase_GeneralStudies_History.ReformersofBhaktiMovement_TestCase"/>
+      <class name="testCase_GeneralStudies_History.VijayanagaandBahmaniKingdom_TestCase"/>
+      <class name="testCase_GeneralStudies_History.Mughals_TestCase"/>
+      <class name="testCase_GeneralStudies_History.Marathas_TestCase"/>
+      <class name="testCase_GeneralStudies_History.AdventofEuropeans_TestCase"/>
+      <class name="testCase_GeneralStudies_History.CarnaticWars_TestCase"/>
+      <class name="testCase_GeneralStudies_History.TheGreaRevoltof1857_TestCase"/>
+      <class name="testCase_GeneralStudies_History.SocialandReligionsReformMovementinthe19thCentury_TestCase"/>
+      <class name="testCase_GeneralStudies_History.EducationalDevelopmentinIndia_TestCase"/>
+      <class name="testCase_GeneralStudies_History.WomenEmpowermentinIndia_TestCase"/>
+      <class name="testCase_GeneralStudies_History.RiseofNationalLeaders_TestCase"/>
+      <class name="testCase_GeneralStudies_History.Post_IndependenceIndia_TestCase"/>
+      <class name="testCase_GeneralStudies_History.CulturalFeaturesofIndia_TestCase"/>
+      <class name="testCase_GeneralStudies_History.SouthIndianHistorySocietyandCultureinAncientTamizhagam_TestCase"/>
+      <class name="testCase_GeneralStudies_History.SangamAge_TestCase"/>
+      <class name="testCase_GeneralStudies_History.KalabrasPeriod_TestCase"/>
+      <class name="testCase_GeneralStudies_History.Pallavas_PandyasPeirod_TestCase"/>
+      <class name="testCase_GeneralStudies_History.Palayakkas_RebellioninTamilnadu_TestCase"/>
+      <class name="testCase_GeneralStudies_History.SocialTransformationinTamilnadu_TestCase"/>
+      <class name="testCase_GeneralStudies_History.JusticeParty_TestCase"/>   
+      <class name="testCase_GeneralStudies_History.SwadeshiMovement_TestCase"/>
+      <class name="testCase_GeneralStudies_History.SelfRespectMovement_TestCase"/>
+      <class name="testCase_GeneralStudies_History.PracticeQustion_TestCase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

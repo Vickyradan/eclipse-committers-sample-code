@@ -1,0 +1,76 @@
+[INFO ] 2021-06-24 23:54:15.773 [main] CommonFunction - Property file Loaded
+[INFO ] 2021-06-24 23:54:22.276 [main] CommonFunction - Browser Opened
+[INFO ] 2021-06-24 23:54:32.263 [main] CommonFunction - getting url
+[INFO ] 2021-06-24 23:54:35.310 [main] CommonFunction - Compound Interest function running
+[INFO ] 2021-06-24 23:54:44.040 [main] CommonFunction - General Studies clicked
+[INFO ] 2021-06-24 23:54:46.559 [main] CommonFunction - Mathematics clicked
+[INFO ] 2021-06-24 23:54:46.707 [main] CommonFunction - Compound Interest clicked
+[INFO ] 2021-06-24 23:54:48.192 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:54:48.193 [main] CommonFunction - Compound Interest function finished
+[INFO ] 2021-06-24 23:54:48.688 [main] CommonFunction - Simple Interest function running
+[INFO ] 2021-06-24 23:54:48.884 [main] CommonFunction - Simple Interest clicked
+[INFO ] 2021-06-24 23:54:50.079 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:54:50.079 [main] CommonFunction - Simple Interest function finished
+[INFO ] 2021-06-24 23:54:50.404 [main] CommonFunction - Simplifications function running
+[INFO ] 2021-06-24 23:54:50.677 [main] CommonFunction - Simplifications clicked
+[INFO ] 2021-06-24 23:54:51.470 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:54:51.470 [main] CommonFunction - Simplifications function finished
+[INFO ] 2021-06-24 23:54:51.772 [main] CommonFunction - Time & Distance function running
+[INFO ] 2021-06-24 23:54:52.013 [main] CommonFunction - Time & Distance clicked
+[INFO ] 2021-06-24 23:54:53.189 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:54:53.190 [main] CommonFunction - Time & Distance function finished
+[INFO ] 2021-06-24 23:54:53.470 [main] CommonFunction - L.C.M and H.C.F function running
+[INFO ] 2021-06-24 23:54:53.695 [main] CommonFunction - L.C.M and H.C.F clicked
+[INFO ] 2021-06-24 23:54:54.417 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:54:54.419 [main] CommonFunction - L.C.M and H.C.F function finished
+[INFO ] 2021-06-24 23:54:54.737 [main] CommonFunction - Alphabetical Series function running
+[INFO ] 2021-06-24 23:54:55.036 [main] CommonFunction - Alphabetical Series clicked
+[INFO ] 2021-06-24 23:54:55.883 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:54:55.883 [main] CommonFunction - Alphabetical Series function finished
+[INFO ] 2021-06-24 23:54:56.331 [main] CommonFunction - Number series function running
+[INFO ] 2021-06-24 23:54:56.514 [main] CommonFunction - Number series clicked
+[INFO ] 2021-06-24 23:54:57.228 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:54:57.228 [main] CommonFunction - Number series function finished
+[INFO ] 2021-06-24 23:54:57.540 [main] CommonFunction - Percentage function running
+[INFO ] 2021-06-24 23:54:57.740 [main] CommonFunction - Percentage clicked
+[INFO ] 2021-06-24 23:54:58.546 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:54:58.546 [main] CommonFunction - Percentage function finished
+[INFO ] 2021-06-24 23:54:58.867 [main] CommonFunction - Ratio and Proportion function running
+[INFO ] 2021-06-24 23:54:59.086 [main] CommonFunction - Ratio and Proportion clicked
+[INFO ] 2021-06-24 23:54:59.693 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:54:59.694 [main] CommonFunction - Ratio and Proportion function finished
+[INFO ] 2021-06-24 23:55:00.541 [main] CommonFunction - Conversion of Information to Data function running
+[INFO ] 2021-06-24 23:55:00.736 [main] CommonFunction - Conversion of Information to Data clicked
+[INFO ] 2021-06-24 23:55:01.194 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:55:01.194 [main] CommonFunction - Conversion of Information to Data function finished
+[INFO ] 2021-06-24 23:55:01.542 [main] CommonFunction - Tabulation function running
+[INFO ] 2021-06-24 23:55:01.820 [main] CommonFunction - Tabulation clicked
+[INFO ] 2021-06-24 23:55:02.571 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:55:02.572 [main] CommonFunction - Tabulation function finished
+[INFO ] 2021-06-24 23:55:02.885 [main] CommonFunction - Puzzle Test function running
+[INFO ] 2021-06-24 23:55:03.022 [main] CommonFunction - Puzzle Test clicked
+[INFO ] 2021-06-24 23:55:03.602 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:55:03.602 [main] CommonFunction - Puzzle Test function finished
+[INFO ] 2021-06-24 23:55:03.916 [main] CommonFunction - Diagrammatic Series function running
+[INFO ] 2021-06-24 23:55:04.124 [main] CommonFunction - Diagrammatic Series clicked
+[INFO ] 2021-06-24 23:55:04.587 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:55:04.588 [main] CommonFunction - Diagrammatic Series function finished
+[INFO ] 2021-06-24 23:55:04.937 [main] CommonFunction - Time and Work function running
+[INFO ] 2021-06-24 23:55:05.188 [main] CommonFunction - Time and Work clicked
+[INFO ] 2021-06-24 23:55:06.067 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:55:06.068 [main] CommonFunction - Time and Work function finished
+[INFO ] 2021-06-24 23:55:06.689 [main] CommonFunction - Area, Surface and Volume function running
+[INFO ] 2021-06-24 23:55:06.994 [main] CommonFunction - Area, Surface and Volume clicked
+[INFO ] 2021-06-24 23:55:08.020 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:55:08.020 [main] CommonFunction - Area, Surface and Volume function finished
+[INFO ] 2021-06-24 23:55:08.479 [main] CommonFunction - Problem on Ages, Partnership function running
+[INFO ] 2021-06-24 23:55:08.755 [main] CommonFunction - Problem on Ages, Partnership clicked
+[INFO ] 2021-06-24 23:55:09.239 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:55:09.239 [main] CommonFunction - Problem on Ages, Partnership function finished
+[INFO ] 2021-06-24 23:55:18.418 [main] CommonFunction - PracticeQuestion function running
+[INFO ] 2021-06-24 23:55:18.768 [main] CommonFunction - GeneralStudies clicked
+[INFO ] 2021-06-24 23:55:19.192 [main] CommonFunction - PracticeQuestion clicked
+[INFO ] 2021-06-24 23:55:20.384 [main] CommonFunction - Subscribe clicked
+[INFO ] 2021-06-24 23:55:20.385 [main] CommonFunction - PracticeQuestion function finished
+[INFO ] 2021-06-24 23:55:21.815 [main] CommonFunction - Browser closed
+

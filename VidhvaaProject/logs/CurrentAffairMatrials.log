@@ -1,0 +1,29 @@
+[INFO ] 2021-06-24 23:43:24.173 [main] CommonFunction - Property file Loaded
+[INFO ] 2021-06-24 23:43:30.656 [main] CommonFunction - Browser Opened
+[INFO ] 2021-06-24 23:43:41.352 [main] CommonFunction - getting url
+[INFO ] 2021-06-24 23:43:44.548 [main] CommonFunction - November2020 Material function running
+[INFO ] 2021-06-24 23:43:59.370 [main] CommonFunction - Current Affair clicked
+[INFO ] 2021-06-24 23:44:00.019 [main] CommonFunction - November2020 Material clicked
+[INFO ] 2021-06-24 23:44:00.204 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-24 23:44:00.204 [main] CommonFunction - November2020 Material function finished
+[INFO ] 2021-06-24 23:44:00.216 [main] CommonFunction - November2020 PracticeQuestion function running
+[INFO ] 2021-06-24 23:44:00.391 [main] CommonFunction - November2020 PracticeQuestion clicked
+[INFO ] 2021-06-24 23:44:00.435 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-24 23:44:00.435 [main] CommonFunction - November2020 PracticeQuestion function finished
+[INFO ] 2021-06-24 23:44:00.438 [main] CommonFunction - December2020 Material function running
+[INFO ] 2021-06-24 23:44:00.700 [main] CommonFunction - December2020 Material clicked
+[INFO ] 2021-06-24 23:44:00.802 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-24 23:44:00.802 [main] CommonFunction - December2020 Material function finished
+[INFO ] 2021-06-24 23:44:00.808 [main] CommonFunction - December2020 PracticeQuestion function running
+[INFO ] 2021-06-24 23:44:00.950 [main] CommonFunction - December2020 PracticeQuestion clicked
+[INFO ] 2021-06-24 23:44:01.064 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-24 23:44:01.065 [main] CommonFunction - December2020 PracticeQuestion function finished
+[INFO ] 2021-06-24 23:44:01.067 [main] CommonFunction - January2021 Material function running
+[INFO ] 2021-06-24 23:44:01.225 [main] CommonFunction - January2021 Material clicked
+[INFO ] 2021-06-24 23:44:01.364 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-24 23:44:01.365 [main] CommonFunction - January2021 Material function finished
+[INFO ] 2021-06-24 23:44:01.368 [main] CommonFunction - January2021 PracticeQuestion function running
+[INFO ] 2021-06-24 23:44:01.492 [main] CommonFunction - January2021 PracticeQuestion clicked
+[INFO ] 2021-06-24 23:44:01.540 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-24 23:44:01.541 [main] CommonFunction - January2021 PracticeQuestion function finished
+[INFO ] 2021-06-24 23:44:03.770 [main] CommonFunction - Browser closed

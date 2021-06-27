@@ -1,0 +1,63 @@
+[INFO ] 2021-06-24 23:49:53.024 [main] CommonFunction - Property file Loaded
+[INFO ] 2021-06-24 23:49:57.839 [main] CommonFunction - Browser Opened
+[INFO ] 2021-06-24 23:50:13.584 [main] CommonFunction - getting url
+[INFO ] 2021-06-24 23:50:17.128 [main] CommonFunction - Universe And Solar System function running
+[INFO ] 2021-06-24 23:50:25.706 [main] CommonFunction - General Studies clicked
+[INFO ] 2021-06-24 23:50:27.968 [main] CommonFunction - Geograpy clicked
+[INFO ] 2021-06-24 23:50:28.109 [main] CommonFunction - Universe And Solar System clicked
+[INFO ] 2021-06-24 23:50:28.670 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:50:28.676 [main] CommonFunction - Universe And Solar System function finished
+[INFO ] 2021-06-24 23:50:29.061 [main] CommonFunction - Weather, Monsoon, Rainfall function running
+[INFO ] 2021-06-24 23:50:29.243 [main] CommonFunction - Weather, Monsoon, Rainfall clicked
+[INFO ] 2021-06-24 23:50:29.761 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:50:29.761 [main] CommonFunction - Weather, Monsoon, Rainfall function finished
+[INFO ] 2021-06-24 23:50:30.113 [main] CommonFunction - Water Resources function running
+[INFO ] 2021-06-24 23:50:30.268 [main] CommonFunction - Water Resources clicked
+[INFO ] 2021-06-24 23:50:30.768 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:50:30.769 [main] CommonFunction - Water Resources function finished
+[INFO ] 2021-06-24 23:50:31.112 [main] CommonFunction - Rivers of India function running
+[INFO ] 2021-06-24 23:50:31.288 [main] CommonFunction - Rivers of India clicked
+[INFO ] 2021-06-24 23:50:32.547 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:50:32.548 [main] CommonFunction - Rivers of India function finished
+[INFO ] 2021-06-24 23:50:33.013 [main] CommonFunction - Soils function running
+[INFO ] 2021-06-24 23:50:33.160 [main] CommonFunction - Soils clicked
+[INFO ] 2021-06-24 23:50:33.802 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:50:33.802 [main] CommonFunction - Soils function finished
+[INFO ] 2021-06-24 23:50:34.136 [main] CommonFunction - Population Density and Distribution function running
+[INFO ] 2021-06-24 23:50:34.333 [main] CommonFunction - Population Density and Distribution clicked
+[INFO ] 2021-06-24 23:50:34.828 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:50:34.832 [main] CommonFunction - Population Density and Distribution function finished
+[INFO ] 2021-06-24 23:50:35.211 [main] CommonFunction - Social Geography function running
+[INFO ] 2021-06-24 23:50:35.397 [main] CommonFunction - Social Geography clicked
+[INFO ] 2021-06-24 23:50:35.953 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:50:35.953 [main] CommonFunction - Social Geography function finished
+[INFO ] 2021-06-24 23:50:36.389 [main] CommonFunction - Disaster Management function running
+[INFO ] 2021-06-24 23:50:36.630 [main] CommonFunction - Disaster Management clicked
+[INFO ] 2021-06-24 23:50:37.351 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:50:37.351 [main] CommonFunction - Disaster Management function finished
+[INFO ] 2021-06-24 23:50:37.712 [main] CommonFunction - Tamilnadu function running
+[INFO ] 2021-06-24 23:50:37.897 [main] CommonFunction - Tamilnadu clicked
+[INFO ] 2021-06-24 23:50:38.521 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:50:38.522 [main] CommonFunction - Tamilnadu function finished
+[INFO ] 2021-06-24 23:50:38.835 [main] CommonFunction - Earth function running
+[INFO ] 2021-06-24 23:50:39.102 [main] CommonFunction - Earth clicked
+[INFO ] 2021-06-24 23:50:39.638 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:50:39.638 [main] CommonFunction - Earth function finished
+[INFO ] 2021-06-24 23:50:40.200 [main] CommonFunction - Additional Information function running
+[INFO ] 2021-06-24 23:50:40.380 [main] CommonFunction - Additional Information clicked
+[INFO ] 2021-06-24 23:50:40.949 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:50:40.950 [main] CommonFunction - Additional Information function finished
+[INFO ] 2021-06-24 23:50:41.308 [main] CommonFunction - India - Soils, Minerals, Natural Resources, Forests, Agriculture, Transport, Communication function running
+[INFO ] 2021-06-24 23:50:41.498 [main] CommonFunction - India - Soils, Minerals, Natural Resources, Forests, Agriculture, Transport, Communication clicked
+[INFO ] 2021-06-24 23:50:42.738 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:50:42.738 [main] CommonFunction - India - Soils, Minerals, Natural Resources, Forests, Agriculture, Transport, Communication function finished
+[INFO ] 2021-06-24 23:50:43.077 [main] CommonFunction - Continents - Soils, Minerals, Forests, Natural Resources, Agriculture, Transport, Communication and Population function running
+[INFO ] 2021-06-24 23:50:43.333 [main] CommonFunction - Continents - Soils, Minerals, Forests, Natural Resources, Agriculture, Transport, Communication and Population clicked
+[INFO ] 2021-06-24 23:50:43.886 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:50:43.886 [main] CommonFunction - Continents - Soils, Minerals, Forests, Natural Resources, Agriculture, Transport, Communication and Population function finished
+[INFO ] 2021-06-24 23:50:53.796 [main] CommonFunction - PracticeQuestion function running
+[INFO ] 2021-06-24 23:50:54.174 [main] CommonFunction - GeneralStudies clicked
+[INFO ] 2021-06-24 23:50:54.714 [main] CommonFunction - PracticeQuestion clicked
+[INFO ] 2021-06-24 23:50:54.816 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-24 23:50:54.816 [main] CommonFunction - PracticeQuestion function finished
+[INFO ] 2021-06-24 23:50:56.643 [main] CommonFunction - Browser closed

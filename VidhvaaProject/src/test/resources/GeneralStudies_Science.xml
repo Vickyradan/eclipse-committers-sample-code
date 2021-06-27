@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test name="Test">
+    <classes>
+       <class name="testCase_GeneralStudies_Science.NatureofUniverse_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.General_Scientific_Laws_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.NewInnovationandDiscoveries_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.NationalScientificLaboratories_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.Mechanics_PropertiesofMatter_PhysicalQuantities_StandardsandUnit_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.Force_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.MotionandEnergy_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.Magnetism_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.ElectricityAndElectronics_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.Heat_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.Light_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.Sound_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.ElementsandCompounds_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.Acids_BasesandSalts_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.Fertilizers_PesticidesandInsecticides_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.MainConceptsOfLifeScience_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.ClassificationoflivingOrganism_TestCase"/>
+       <class name="testCase_GeneralStudies_Science.NutritionandDieteticsRespiration_TestCase"/>
+      <class name="testCase_GeneralStudies_Science.BloodandBloodCirculaton_TestCase"/>
+      <class name="testCase_GeneralStudies_Science.Reproductivesystem_TestCase"/>
+      <class name="testCase_GeneralStudies_Science.Environment_Ecology_TestCase"/> 
+      <class name="testCase_GeneralStudies_Science.Human_Diseases_including_communicable_diseases_preventionandremedies_TestCase"/>
+      <class name="testCase_GeneralStudies_Science.Animals_PlantsandHumanLife_TestCase"/>
+      <class name="testCase_GeneralStudies_Science.PracticeQuestion_TestCase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

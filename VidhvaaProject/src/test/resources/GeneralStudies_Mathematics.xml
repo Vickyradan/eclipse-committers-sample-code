@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test name="Test">
+    <classes>
+      <class name="testCase_GeneralStudies_Mathematics.Material_CompoundInterest_TestCase"/>
+       <class name="testCase_GeneralStudies_Mathematics.Material_SimpleInterest_TestCase"/>
+       <class name="testCase_GeneralStudies_Mathematics.Material_Simplifications_TestCase"/>
+       <class name="testCase_GeneralStudies_Mathematics.Material_TimeandDistance_Testcase"/>
+       <class name="testCase_GeneralStudies_Mathematics.Material_LCMandHCF_TestCase"/>
+       <class name="testCase_GeneralStudies_Mathematics.Material_AlphabeticalSeries_TestCase"/>
+      <class name="testCase_GeneralStudies_Mathematics.Material_Numberseries_TestCase"/>
+      <class name="testCase_GeneralStudies_Mathematics.Material_Percentage_TestCase"/>
+      <class name="testCase_GeneralStudies_Mathematics.Material_RatioandProportion_TestCase"/>
+      <class name="testCase_GeneralStudies_Mathematics.Material_ConversionofInformationtoData_TestCase"/>
+      <class name="testCase_GeneralStudies_Mathematics.Material_Tabulation_TestCase"/>
+      <class name="testCase_GeneralStudies_Mathematics.Material_PuzzleTest_TestCase"/>
+      <class name="testCase_GeneralStudies_Mathematics.Material_DiagrammaticSeries_TestCase"/>
+      <class name="testCase_GeneralStudies_Mathematics.Material_TimeandWork_TestCase"/>
+      <class name="testCase_GeneralStudies_Mathematics.Material_Area_SurfaceandVolume_TestCase"/>
+      <class name="testCase_GeneralStudies_Mathematics.Material_ProblemonAgesPartnership_TestCase"/>
+      <class name="testCase_GeneralStudies_Mathematics.PracticeQuestion_TestCase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

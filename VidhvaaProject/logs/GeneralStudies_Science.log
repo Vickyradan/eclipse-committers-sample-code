@@ -1,0 +1,103 @@
+[INFO ] 2021-06-25 00:00:19.858 [main] CommonFunction - Property file Loaded
+[INFO ] 2021-06-25 00:00:23.933 [main] CommonFunction - Browser Opened
+[INFO ] 2021-06-25 00:00:37.544 [main] CommonFunction - getting url
+[INFO ] 2021-06-25 00:00:40.908 [main] CommonFunction - Nature of Universe function running
+[INFO ] 2021-06-25 00:00:48.706 [main] CommonFunction - General Studies clicked
+[INFO ] 2021-06-25 00:00:50.338 [main] CommonFunction - Science clicked
+[INFO ] 2021-06-25 00:00:50.504 [main] CommonFunction - Nature of Universe clicked
+[INFO ] 2021-06-25 00:00:54.610 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:00:54.613 [main] CommonFunction - Nature of Universe function finished
+[INFO ] 2021-06-25 00:00:54.982 [main] CommonFunction - General Scientific Laws function running
+[INFO ] 2021-06-25 00:00:55.192 [main] CommonFunction - General Scientific Laws clicked
+[INFO ] 2021-06-25 00:00:55.943 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:00:55.943 [main] CommonFunction - General Scientific Laws function finished
+[INFO ] 2021-06-25 00:00:56.313 [main] CommonFunction - New Innovations and Discoveries function running
+[INFO ] 2021-06-25 00:00:56.509 [main] CommonFunction - New Innovations and Discoveries clicked
+[INFO ] 2021-06-25 00:00:57.300 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:00:57.300 [main] CommonFunction - New Innovations and Discoveries function finished
+[INFO ] 2021-06-25 00:00:57.742 [main] CommonFunction - National Scientific Laboratories function running
+[INFO ] 2021-06-25 00:00:57.929 [main] CommonFunction - National Scientific Laboratories clicked
+[INFO ] 2021-06-25 00:00:58.744 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:00:58.744 [main] CommonFunction - National Scientific Laboratories function finished
+[INFO ] 2021-06-25 00:00:59.075 [main] CommonFunction - MECHANICS PROPERTIES OF MATTER - PHYSICAL QUANTITIES ,STANDRADS AND UNITS function running
+[INFO ] 2021-06-25 00:00:59.279 [main] CommonFunction - MECHANICS PROPERTIES OF MATTER - PHYSICAL QUANTITIES ,STANDRADS AND UNITS clicked
+[INFO ] 2021-06-25 00:01:00.050 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:00.050 [main] CommonFunction - MECHANICS PROPERTIES OF MATTER - PHYSICAL QUANTITIES ,STANDRADS AND UNITS function finished
+[INFO ] 2021-06-25 00:01:00.394 [main] CommonFunction - force function running
+[INFO ] 2021-06-25 00:01:00.617 [main] CommonFunction - force clicked
+[INFO ] 2021-06-25 00:01:01.377 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:01.377 [main] CommonFunction - force function finished
+[INFO ] 2021-06-25 00:01:01.768 [main] CommonFunction - motion and Energy function running
+[INFO ] 2021-06-25 00:01:01.954 [main] CommonFunction - motion and Energy clicked
+[INFO ] 2021-06-25 00:01:02.727 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:02.728 [main] CommonFunction - motion and Energy function finished
+[INFO ] 2021-06-25 00:01:03.222 [main] CommonFunction - Magnetism function running
+[INFO ] 2021-06-25 00:01:03.428 [main] CommonFunction - Magnetism clicked
+[INFO ] 2021-06-25 00:01:04.043 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:04.043 [main] CommonFunction - Magnetism function finished
+[INFO ] 2021-06-25 00:01:04.406 [main] CommonFunction - Electricity And Electronics function running
+[INFO ] 2021-06-25 00:01:04.656 [main] CommonFunction - Electricity And Electronics clicked
+[INFO ] 2021-06-25 00:01:05.531 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:05.531 [main] CommonFunction - Electricity And Electronics function finished
+[INFO ] 2021-06-25 00:01:05.867 [main] CommonFunction - Heat function running
+[INFO ] 2021-06-25 00:01:06.087 [main] CommonFunction - Heat clicked
+[INFO ] 2021-06-25 00:01:06.703 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:06.703 [main] CommonFunction - Heat function finished
+[INFO ] 2021-06-25 00:01:07.314 [main] CommonFunction - Light function running
+[INFO ] 2021-06-25 00:01:07.564 [main] CommonFunction - Light clicked
+[INFO ] 2021-06-25 00:01:08.435 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:08.435 [main] CommonFunction - Light function finished
+[INFO ] 2021-06-25 00:01:08.840 [main] CommonFunction - Sound function running
+[INFO ] 2021-06-25 00:01:09.034 [main] CommonFunction - Sound clicked
+[INFO ] 2021-06-25 00:01:09.679 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:09.680 [main] CommonFunction - Sound function finished
+[INFO ] 2021-06-25 00:01:10.494 [main] CommonFunction - Elements and Compounds function running
+[INFO ] 2021-06-25 00:01:10.720 [main] CommonFunction - Elements and Compounds clicked
+[INFO ] 2021-06-25 00:01:11.555 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:11.555 [main] CommonFunction - Elements and Compounds function finished
+[INFO ] 2021-06-25 00:01:11.957 [main] CommonFunction - Acids, Bases and Salts function running
+[INFO ] 2021-06-25 00:01:12.152 [main] CommonFunction - Acids, Bases and Salts clicked
+[INFO ] 2021-06-25 00:01:12.791 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:12.792 [main] CommonFunction - Acids, Bases and Salts function finished
+[INFO ] 2021-06-25 00:01:13.127 [main] CommonFunction - Fertilizers, Pesticides and Insecticides function running
+[INFO ] 2021-06-25 00:01:13.365 [main] CommonFunction - Fertilizers, Pesticides and Insecticides clicked
+[INFO ] 2021-06-25 00:01:14.150 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:14.150 [main] CommonFunction - Fertilizers, Pesticides and Insecticides function finished
+[INFO ] 2021-06-25 00:01:14.512 [main] CommonFunction - Main Concepts Of Life Science function running
+[INFO ] 2021-06-25 00:01:14.661 [main] CommonFunction - Main Concepts Of Life Science clicked
+[INFO ] 2021-06-25 00:01:15.345 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:15.345 [main] CommonFunction - Main Concepts Of Life Science function finished
+[INFO ] 2021-06-25 00:01:15.694 [main] CommonFunction - Classification of living Organism function running
+[INFO ] 2021-06-25 00:01:15.899 [main] CommonFunction - Classification of living Organism clicked
+[INFO ] 2021-06-25 00:01:16.356 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:16.356 [main] CommonFunction - Classification of living Organism function finished
+[INFO ] 2021-06-25 00:01:16.697 [main] CommonFunction - Nutrition and Dietetics Respiration function running
+[INFO ] 2021-06-25 00:01:16.952 [main] CommonFunction - Nutrition and Dietetics Respiration clicked
+[INFO ] 2021-06-25 00:01:17.840 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:17.840 [main] CommonFunction - Nutrition and Dietetics Respiration function finished
+[INFO ] 2021-06-25 00:01:18.161 [main] CommonFunction - Blood and Blood Circulaton function running
+[INFO ] 2021-06-25 00:01:18.354 [main] CommonFunction - Blood and Blood Circulaton clicked
+[INFO ] 2021-06-25 00:01:19.010 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:19.010 [main] CommonFunction - Blood and Blood Circulaton function finished
+[INFO ] 2021-06-25 00:01:19.344 [main] CommonFunction - Reproductive system function running
+[INFO ] 2021-06-25 00:01:19.554 [main] CommonFunction - Reproductive system clicked
+[INFO ] 2021-06-25 00:01:19.990 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:19.990 [main] CommonFunction - Reproductive system function finished
+[INFO ] 2021-06-25 00:01:20.446 [main] CommonFunction - Environment, Ecology function running
+[INFO ] 2021-06-25 00:01:20.673 [main] CommonFunction - Environment, Ecology clicked
+[INFO ] 2021-06-25 00:01:21.679 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:21.680 [main] CommonFunction - Environment, Ecology function finished
+[INFO ] 2021-06-25 00:01:22.054 [main] CommonFunction - Human Diseases including communicable diseases prevention and remedies function running
+[INFO ] 2021-06-25 00:01:22.215 [main] CommonFunction - Human Diseases including communicable diseases prevention and remedies clicked
+[INFO ] 2021-06-25 00:01:22.918 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:22.918 [main] CommonFunction - Human Diseases including communicable diseases prevention and remedies function finished
+[INFO ] 2021-06-25 00:01:23.355 [main] CommonFunction - Animals, Plants and human Life function running
+[INFO ] 2021-06-25 00:01:23.565 [main] CommonFunction - Animals, Plants and human Life clicked
+[INFO ] 2021-06-25 00:01:24.142 [main] CommonFunction - subscribe clicked
+[INFO ] 2021-06-25 00:01:24.143 [main] CommonFunction - Animals, Plants and human Life function finished
+[INFO ] 2021-06-25 00:01:38.093 [main] CommonFunction - PracticeQuestion function running
+[INFO ] 2021-06-25 00:01:38.497 [main] CommonFunction - GeneralStudies clicked
+[INFO ] 2021-06-25 00:01:38.942 [main] CommonFunction - PracticeQuestion clicked
+[INFO ] 2021-06-25 00:01:40.067 [main] CommonFunction - close Popup clicked
+[INFO ] 2021-06-25 00:01:40.068 [main] CommonFunction - PracticeQuestion function finished
+[INFO ] 2021-06-25 00:01:41.387 [main] CommonFunction - Browser closed

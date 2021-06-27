@@ -1,0 +1,25 @@
+[INFO ] 2021-06-25 00:19:06.248 [main] CommonFunction - Property file Loaded
+[INFO ] 2021-06-25 00:19:10.556 [main] CommonFunction - Browser Opened
+[INFO ] 2021-06-25 00:19:23.882 [main] CommonFunction - getting url
+[INFO ] 2021-06-25 00:19:28.310 [main] CommonFunction - Questions_1 function running
+[INFO ] 2021-06-25 00:19:36.903 [main] CommonFunction - VidhvaaModel Question clicked
+[INFO ] 2021-06-25 00:19:37.350 [main] CommonFunction - Questions_1 clicked
+[INFO ] 2021-06-25 00:19:37.475 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-25 00:19:37.475 [main] CommonFunction - Questions_1 function finished
+[INFO ] 2021-06-25 00:19:37.490 [main] CommonFunction - Questions_2 function running
+[INFO ] 2021-06-25 00:19:37.694 [main] CommonFunction - Questions_2 clicked
+[INFO ] 2021-06-25 00:19:37.749 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-25 00:19:37.749 [main] CommonFunction - Questions_2 function finished
+[INFO ] 2021-06-25 00:19:37.752 [main] CommonFunction - Questions_3 function running
+[INFO ] 2021-06-25 00:19:37.958 [main] CommonFunction - Questions_3 clicked
+[INFO ] 2021-06-25 00:19:38.003 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-25 00:19:38.003 [main] CommonFunction - Questions_3 function finished
+[INFO ] 2021-06-25 00:19:38.006 [main] CommonFunction - Questions_4 function running
+[INFO ] 2021-06-25 00:19:38.171 [main] CommonFunction - Questions_4 clicked
+[INFO ] 2021-06-25 00:19:38.217 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-25 00:19:38.218 [main] CommonFunction - Questions_4 function finished
+[INFO ] 2021-06-25 00:19:38.220 [main] CommonFunction - Questions_5 function running
+[INFO ] 2021-06-25 00:19:38.377 [main] CommonFunction - Questions_5 clicked
+[INFO ] 2021-06-25 00:19:38.451 [main] CommonFunction - Subscription Popup Closed
+[INFO ] 2021-06-25 00:19:38.452 [main] CommonFunction - Questions_5 function finished
+[INFO ] 2021-06-25 00:19:40.057 [main] CommonFunction - Browser closed

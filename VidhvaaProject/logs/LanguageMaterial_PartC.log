@@ -1,0 +1,88 @@
+[INFO ] 2021-06-25 00:15:34.959 [main] CommonFunction - Property file Loaded
+[INFO ] 2021-06-25 00:15:40.971 [main] CommonFunction - Browser Opened
+[INFO ] 2021-06-25 00:15:57.094 [main] CommonFunction - getting url
+[INFO ] 2021-06-25 00:15:57.591 [main] CommonFunction - LoginFunction Started
+[INFO ] 2021-06-25 00:16:00.900 [main] CommonFunction - LoginFunction Closed
+[INFO ] 2021-06-25 00:16:00.900 [main] CommonFunction - Match the Poems with the Poets function running
+[INFO ] 2021-06-25 00:16:07.442 [main] CommonFunction - Language Material clicked
+[INFO ] 2021-06-25 00:16:09.171 [main] CommonFunction - Part C clicked
+[INFO ] 2021-06-25 00:16:09.347 [main] CommonFunction - Match the Poems with the Poets  clicked
+[INFO ] 2021-06-25 00:16:10.667 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:10.667 [main] CommonFunction - Match the Poems with the Poets function finished
+[INFO ] 2021-06-25 00:16:11.104 [main] CommonFunction - Which Nationality the story belongs to? function running
+[INFO ] 2021-06-25 00:16:11.317 [main] CommonFunction - Which Nationality the story belongs to? clicked
+[INFO ] 2021-06-25 00:16:11.885 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:11.885 [main] CommonFunction - Which Nationality the story belongs to? function finished
+[INFO ] 2021-06-25 00:16:12.268 [main] CommonFunction - Identify the Author with the short story function running
+[INFO ] 2021-06-25 00:16:12.448 [main] CommonFunction - Identify the Author with the short story clicked
+[INFO ] 2021-06-25 00:16:13.187 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:13.188 [main] CommonFunction - Identify the Author with the short story function finished
+[INFO ] 2021-06-25 00:16:13.568 [main] CommonFunction - Whose Auto biography and Biography is this? function running
+[INFO ] 2021-06-25 00:16:13.737 [main] CommonFunction - Whose Auto biography and Biography is this? clicked
+[INFO ] 2021-06-25 00:16:14.291 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:14.293 [main] CommonFunction - Whose Auto biography and Biography is this? function finished
+[INFO ] 2021-06-25 00:16:14.647 [main] CommonFunction - Which nationality the poet belongs to? function running
+[INFO ] 2021-06-25 00:16:14.859 [main] CommonFunction - Which nationality the poet belongs to? clicked
+[INFO ] 2021-06-25 00:16:15.359 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:15.359 [main] CommonFunction - Which nationality the poet belongs to? function finished
+[INFO ] 2021-06-25 00:16:15.848 [main] CommonFunction - Character, Quotes and Important Lines function running
+[INFO ] 2021-06-25 00:16:16.035 [main] CommonFunction - Character, Quotes and Important Lines clicked
+[INFO ] 2021-06-25 00:16:16.587 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:16.588 [main] CommonFunction - Character, Quotes and Important Lines function finished
+[INFO ] 2021-06-25 00:16:16.953 [main] CommonFunction - Drama Famous Lines, Characters, Quotes function running
+[INFO ] 2021-06-25 00:16:17.162 [main] CommonFunction - Drama Famous Lines, Characters, Quotes clicked
+[INFO ] 2021-06-25 00:16:18.277 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:18.277 [main] CommonFunction - Drama Famous Lines, Characters, Quotes function finished
+[INFO ] 2021-06-25 00:16:18.784 [main] CommonFunction - Match the places, poet, dramatist painter with suitable option function running
+[INFO ] 2021-06-25 00:16:19.004 [main] CommonFunction - Match the places, poet, dramatist painter with suitable option clicked
+[INFO ] 2021-06-25 00:16:20.165 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:20.165 [main] CommonFunction - Match the places, poet, dramatist painter with suitable option function finished
+[INFO ] 2021-06-25 00:16:20.507 [main] CommonFunction - Folk Arts function running
+[INFO ] 2021-06-25 00:16:20.717 [main] CommonFunction - Folk Arts clicked
+[INFO ] 2021-06-25 00:16:21.218 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:21.221 [main] CommonFunction - Folk Arts function finished
+[INFO ] 2021-06-25 00:16:21.559 [main] CommonFunction - Match the author relevant title character function running
+[INFO ] 2021-06-25 00:16:21.793 [main] CommonFunction - Match the author relevant title character clicked
+[INFO ] 2021-06-25 00:16:22.311 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:22.312 [main] CommonFunction - Match the author relevant title character function finished
+[INFO ] 2021-06-25 00:16:22.687 [main] CommonFunction - Match the characters with relevant story title function running
+[INFO ] 2021-06-25 00:16:22.870 [main] CommonFunction - Match the characters with relevant story title clicked
+[INFO ] 2021-06-25 00:16:23.670 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:23.670 [main] CommonFunction - Match the characters with relevant story title function finished
+[INFO ] 2021-06-25 00:16:24.016 [main] CommonFunction - About the poet function running
+[INFO ] 2021-06-25 00:16:24.215 [main] CommonFunction - About the poet clicked
+[INFO ] 2021-06-25 00:16:24.713 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:24.713 [main] CommonFunction - About the poet function finished
+[INFO ] 2021-06-25 00:16:25.089 [main] CommonFunction - About the dramatist function running
+[INFO ] 2021-06-25 00:16:25.317 [main] CommonFunction - About the dramatist clicked
+[INFO ] 2021-06-25 00:16:25.822 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:25.822 [main] CommonFunction - About the dramatist function finished
+[INFO ] 2021-06-25 00:16:26.182 [main] CommonFunction - Mention the poem in which these lines occur function running
+[INFO ] 2021-06-25 00:16:26.375 [main] CommonFunction - Mention the poem in which these lines occur clicked
+[INFO ] 2021-06-25 00:16:27.549 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:27.550 [main] CommonFunction - Mention the poem in which these lines occur function finished
+[INFO ] 2021-06-25 00:16:27.915 [main] CommonFunction - Various works of the authors function running
+[INFO ] 2021-06-25 00:16:28.149 [main] CommonFunction - Various works of the authors clicked
+[INFO ] 2021-06-25 00:16:28.645 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:28.645 [main] CommonFunction - Various works of the authors function finished
+[INFO ] 2021-06-25 00:16:29.080 [main] CommonFunction - What is the themes observed in the literary works? function running
+[INFO ] 2021-06-25 00:16:29.272 [main] CommonFunction - What is the themes observed in the literary works? clicked
+[INFO ] 2021-06-25 00:16:30.552 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:30.553 [main] CommonFunction - What is the themes observed in the literary works? function finished
+[INFO ] 2021-06-25 00:16:30.915 [main] CommonFunction - Famous Quotes - Who said this? function running
+[INFO ] 2021-06-25 00:16:31.104 [main] CommonFunction - Famous Quotes - Who said this? clicked
+[INFO ] 2021-06-25 00:16:31.747 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:31.747 [main] CommonFunction - Famous Quotes - Who said this? function finished
+[INFO ] 2021-06-25 00:16:32.077 [main] CommonFunction - To which period the poet belong function running
+[INFO ] 2021-06-25 00:16:32.276 [main] CommonFunction - To which period the poet belong clicked
+[INFO ] 2021-06-25 00:16:32.748 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:32.749 [main] CommonFunction - To which period the poet belong function finished
+[INFO ] 2021-06-25 00:16:33.093 [main] CommonFunction - Match poet and the poem function running
+[INFO ] 2021-06-25 00:16:33.304 [main] CommonFunction - Match poet and the poem  clicked
+[INFO ] 2021-06-25 00:16:33.820 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:33.820 [main] CommonFunction - Match poet and the poem function finished
+[INFO ] 2021-06-25 00:16:34.209 [main] CommonFunction - Nature Centered Library Works function running
+[INFO ] 2021-06-25 00:16:34.397 [main] CommonFunction - Nature Centered Library Works clicked
+[INFO ] 2021-06-25 00:16:34.901 [main] CommonFunction - Sample Material clicked
+[INFO ] 2021-06-25 00:16:34.901 [main] CommonFunction - Nature Centered Library Works function finished
+[INFO ] 2021-06-25 00:16:36.650 [main] CommonFunction - Browser closed

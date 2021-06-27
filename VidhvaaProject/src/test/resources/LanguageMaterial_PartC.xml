@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test name="Test">
+    <classes>
+    
+      <class name="testCase_LanguageMaterial_PartC.MatchthePoemswiththePoets_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartC.WhichNationalitythestorybelongsto_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartC.IdentifytheAuthorwiththeshortstory_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartC.WhoseAutobiographyandBiographyisthis_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartC.Whichnationalitythepoetbelongsto_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartC.CharacterQuotesandImportantLines_TestCase"/>   
+      <class name="testCase_LanguageMaterial_PartC.DramaFamousLinesCharactersQuotes_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartC.Matchtheplacespoetdramatistpainterwithsuitableoption_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartC.FolkArts_TestCase"/>    
+      <class name="testCase_LanguageMaterial_PartC.Matchtheauthorrelevanttitlecharacter_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartC.Matchthecharacterswithrelevantstorytitle_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartC.Aboutthepoet_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartC.Aboutthedramatist_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartC.Mentionthepoeminwhichtheselinesoccur_TestCase"/>      
+      <class name="testCase_LanguageMaterial_PartC.Variousworksoftheauthors_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartC.Whatisthethemesobservedintheliteraryworks_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartC.FamousQuotes_Whosaidthis_TestCase"/>
+      <class name="testCase_LanguageMaterial_PartC.Towhichperiodthepoetbelong_TestCase"/>      
+      <class name="testCase_LanguageMaterial_PartC.Matchpoetandthepoem_TestCase"/>    
+      <class name="testCase_LanguageMaterial_PartC.NatureCenteredLibraryWorks_TestCase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
