@@ -38,7 +38,7 @@ public class HierarchyTest {
 
   @AfterClass
   public void afterClass() {
-	  System.out.println("beforeClass");
+	  System.out.println("AfterClass");
   }
 
   @BeforeTest
