@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test name="Default test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
     <classes>
-      <class name="TestNG.Parameterization">
+      <class name="suite.New">
         <methods>
-          <include name="PrintName"/>
+          <include name="Closebrowser"/>
+          <include name="Yahoo"/>
+          <include name="OpenBrowser"/>
         </methods>
-      </class> <!-- TestNG.Parameterization -->
+      </class> <!-- suite.New -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

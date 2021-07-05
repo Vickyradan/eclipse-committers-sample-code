@@ -18,7 +18,7 @@ public class SearchEngine {
 			driver.manage().window().maximize();
 		}
 		
-		@Test(enabled=false)
+		@Test(enabled=false, priority=1)
 		
 		public void OpenGoogle()
 		{

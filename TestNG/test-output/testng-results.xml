@@ -2,56 +2,56 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="123" started-at="2021-06-17T11:10:07Z" finished-at="2021-06-17T11:10:07Z">
+  <suite name="Default suite" duration-ms="117" started-at="2021-07-05T05:21:13Z" finished-at="2021-07-05T05:21:13Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="123" started-at="2021-06-17T11:10:07Z" finished-at="2021-06-17T11:10:07Z">
+    <test name="Default test" duration-ms="117" started-at="2021-07-05T05:21:13Z" finished-at="2021-07-05T05:21:13Z">
       <class name="TestNG.HierarchyTest">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:TestNG.HierarchyTest@c64813]" name="beforeSuite" is-config="true" duration-ms="38" started-at="2021-06-17T16:40:07Z" finished-at="2021-06-17T16:40:07Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="beforeSuite" is-config="true" duration-ms="28" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestNG.HierarchyTest@c64813]" name="beforeTest" is-config="true" duration-ms="1" started-at="2021-06-17T16:40:07Z" finished-at="2021-06-17T16:40:07Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="beforeTest" is-config="true" duration-ms="1" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestNG.HierarchyTest@c64813]" name="beforeClass" is-config="true" duration-ms="2" started-at="2021-06-17T16:40:07Z" finished-at="2021-06-17T16:40:07Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="beforeClass" is-config="true" duration-ms="4" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="Test1()[pri:0, instance:TestNG.HierarchyTest@c64813]" name="Test1" duration-ms="13" started-at="2021-06-17T16:40:07Z" finished-at="2021-06-17T16:40:07Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="Test1" duration-ms="24" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test1 -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNG.HierarchyTest@c64813]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-06-17T16:40:07Z" finished-at="2021-06-17T16:40:07Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNG.HierarchyTest@c64813]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-06-17T16:40:07Z" finished-at="2021-06-17T16:40:07Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNG.HierarchyTest@c64813]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-06-17T16:40:07Z" finished-at="2021-06-17T16:40:07Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="beforeMethod" is-config="true" duration-ms="8" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="Test2()[pri:0, instance:TestNG.HierarchyTest@c64813]" name="Test2" duration-ms="21" started-at="2021-06-17T16:40:07Z" finished-at="2021-06-17T16:40:07Z">
+        <test-method status="PASS" signature="Test2()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="Test2" duration-ms="3" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test2 -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNG.HierarchyTest@c64813]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-06-17T16:40:07Z" finished-at="2021-06-17T16:40:07Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="afterMethod" is-config="true" duration-ms="12" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestNG.HierarchyTest@c64813]" name="afterClass" is-config="true" duration-ms="0" started-at="2021-06-17T16:40:07Z" finished-at="2021-06-17T16:40:07Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="afterClass" is-config="true" duration-ms="3" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestNG.HierarchyTest@c64813]" name="afterTest" is-config="true" duration-ms="1" started-at="2021-06-17T16:40:07Z" finished-at="2021-06-17T16:40:07Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="afterTest" is-config="true" duration-ms="1" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:TestNG.HierarchyTest@c64813]" name="afterSuite" is-config="true" duration-ms="0" started-at="2021-06-17T16:40:08Z" finished-at="2021-06-17T16:40:08Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="afterSuite" is-config="true" duration-ms="1" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
