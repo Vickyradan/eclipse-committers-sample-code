@@ -11,6 +11,8 @@ public class AssertandVerify {
 		String name ="Vicky";
 		boolean value= true;
 		
+		int value1= 123;
+		
 		// Assert method also called Hard assert method
 		Assert.assertEquals(name, "Vicky");
 		System.out.println(" success assertEquals");
@@ -23,6 +25,12 @@ public class AssertandVerify {
 		assert1.assertTrue(value, "");
 		System.out.println("Success asserttrue");
 		
+		
+		assert1.assertEquals(value1, "12");
+		
+		System.out.println("success value");
+		
+		Assert.assertEquals(name, "Vicky");
 		
 		assert1.assertFalse(false);
 		System.out.println("Success assertfalse");
