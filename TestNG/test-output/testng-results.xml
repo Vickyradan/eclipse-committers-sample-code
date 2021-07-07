@@ -1,61 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="117" started-at="2021-07-05T05:21:13Z" finished-at="2021-07-05T05:21:13Z">
+  <suite name="Suite" duration-ms="48680" started-at="2021-07-05T20:04:07Z" finished-at="2021-07-05T20:04:56Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="117" started-at="2021-07-05T05:21:13Z" finished-at="2021-07-05T05:21:13Z">
-      <class name="TestNG.HierarchyTest">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="beforeSuite" is-config="true" duration-ms="28" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
+    <test name="Test" duration-ms="48680" started-at="2021-07-05T20:04:07Z" finished-at="2021-07-05T20:04:56Z">
+      <class name="suite.SearchEngine2">
+        <test-method status="PASS" signature="OpenGoogle()[pri:0, instance:suite.SearchEngine2@197c004]" name="OpenGoogle" duration-ms="18142" started-at="2021-07-06T01:34:07Z" finished-at="2021-07-06T01:34:25Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="beforeTest" is-config="true" duration-ms="1" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
+        </test-method> <!-- OpenGoogle -->
+        <test-method status="PASS" signature="OpenYahoo()[pri:0, instance:suite.SearchEngine2@197c004]" name="OpenYahoo" duration-ms="48643" started-at="2021-07-06T01:34:07Z" finished-at="2021-07-06T01:34:56Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="beforeClass" is-config="true" duration-ms="4" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
+        </test-method> <!-- OpenYahoo -->
+        <test-method status="PASS" signature="OpenBing()[pri:0, instance:suite.SearchEngine2@197c004]" name="OpenBing" duration-ms="14195" started-at="2021-07-06T01:34:07Z" finished-at="2021-07-06T01:34:21Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="Test1()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="Test1" duration-ms="24" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test1 -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="beforeMethod" is-config="true" duration-ms="8" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="Test2()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="Test2" duration-ms="3" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test2 -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="afterMethod" is-config="true" duration-ms="12" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="afterClass" is-config="true" duration-ms="3" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="afterTest" is-config="true" duration-ms="1" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:TestNG.HierarchyTest@a01e23]" name="afterSuite" is-config="true" duration-ms="1" started-at="2021-07-05T10:51:13Z" finished-at="2021-07-05T10:51:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterSuite -->
-      </class> <!-- TestNG.HierarchyTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- OpenBing -->
+      </class> <!-- suite.SearchEngine2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
